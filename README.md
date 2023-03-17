@@ -4,7 +4,7 @@ Assessment - Automation | Senior Quality Assurance Engineer : Swivel Group
 
 ## Setting up the project
 
-# Clone and set up the `Assessment_YC` repo
+# Clone and set up the repository
 ```
 $ git clone https://github.com/YanushaCooray/Assessment_YC.git
 $ cd Assessment_YC
